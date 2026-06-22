@@ -49,3 +49,15 @@ I will keep updating this repository as I learn new concepts, solve more problem
 ---
 
 Learning DSA is not just about solving questions. It is about building the mindset to break problems down, think clearly, and create better solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
