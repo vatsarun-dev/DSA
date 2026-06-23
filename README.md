@@ -65,6 +65,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | ------- |
 | [0007-reverse-integer](https://github.com/vatsarun-dev/DSA/tree/master/0007-reverse-integer) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
+| [2235-add-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
