@@ -3,14 +3,10 @@ function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
     let len = combine.length
     if(len%2!==0){
         let i =len-1
-        let median = Math.floor(i/2)
-
-        return combine[median]
+        return combine[Math.floor(i/2)]
     }
     let i=len-1
-    let median =Math.floor(i/2)
-    let nextMedian =median+1
-    let finalMedian = (combine[median]+combine[nextMedian])/2
+    let finalMedian = (combine[Math.floor(i/2)]+combine[Math.floor(i/2)+1])/2
     return finalMedian
 
 };
