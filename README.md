@@ -56,6 +56,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,12 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/vatsarun-dev/DSA/tree/master/0223-rectangle-area) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
