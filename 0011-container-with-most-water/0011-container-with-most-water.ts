@@ -3,13 +3,10 @@ function maxArea(height: number[]): number {
     let right=height.length-1
     let maxWater=0
     while(left<right){
-        let width = right-left
-        let h =Math.min(height[left],height[right])
-        let area =width*h
+       let area = Math.min(height[left],height[right]) *(right-left)
         maxWater= Math.max(maxWater,area)
 
-        if(height[left]<height[right]) left ++
-        else right --
+        height[left]<height[right]? left++ : right-- 
     }
     return maxWater
 };
