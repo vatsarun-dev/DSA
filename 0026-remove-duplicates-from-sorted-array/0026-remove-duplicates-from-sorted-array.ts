@@ -1,16 +1,11 @@
 function removeDuplicates(a: number[]): number {
-let copy =[...a]
-for(let i=0;i<a.length;i++){
-  let j=i+1
-  while(j<a.length){
-    if(a[i]==a[j]){
-     a.splice(j,1)
+let count:number =1
+for(let i:number=1;i<a.length;i++){
+    if(a[i]!==a[count-1]){
+        a[count]=a[i]
+        count ++
     }
-    else{
-      j++
-    }
-  }
 }
- copy =[...a,...Array(copy.length-a.length).fill("_")]
-return a.length
+return count
+
 };
