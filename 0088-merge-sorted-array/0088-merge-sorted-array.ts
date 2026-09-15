@@ -13,7 +13,7 @@ function merge(a: number[], m: number, b: number[], n: number): void {
         a[index--]=a[i--]
     }
    }
-   while(j<=0){
+   while(j>=0){
     a[index--]=b[j--]
    }
 };
