@@ -61,6 +61,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsarun-dev/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0011-container-with-most-water](https://github.com/vatsarun-dev/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsarun-dev/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -103,4 +105,8 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
