@@ -62,6 +62,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0027-remove-element](https://github.com/vatsarun-dev/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vatsarun-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vatsarun-dev/DSA/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vatsarun-dev/DSA/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
 | [2235-add-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/2235-add-two-integers) |
@@ -98,6 +100,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsarun-dev/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
