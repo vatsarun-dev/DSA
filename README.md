@@ -64,6 +64,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/vatsarun-dev/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -121,6 +124,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | ------- |
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -129,4 +133,12 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
