@@ -68,6 +68,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0136-single-number](https://github.com/vatsarun-dev/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vatsarun-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -77,6 +78,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | ------- |
 | [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -143,10 +146,12 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
