@@ -70,6 +70,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/vatsarun-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vatsarun-dev/DSA/tree/master/0493-reverse-pairs) |
@@ -186,4 +187,8 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vatsarun-dev/DSA/tree/master/0050-powx-n) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/vatsarun-dev/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
