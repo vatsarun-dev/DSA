@@ -85,6 +85,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vatsarun-dev/DSA/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/vatsarun-dev/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vatsarun-dev/DSA/tree/master/0223-rectangle-area) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
@@ -181,4 +182,8 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/vatsarun-dev/DSA/tree/master/0493-reverse-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vatsarun-dev/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
