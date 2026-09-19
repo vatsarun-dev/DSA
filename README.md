@@ -72,6 +72,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vatsarun-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vatsarun-dev/DSA/tree/master/0493-reverse-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vatsarun-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -95,6 +96,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vatsarun-dev/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
 ## Geometry
 |  |
@@ -104,6 +106,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/vatsarun-dev/DSA/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
@@ -123,6 +126,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vatsarun-dev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -191,4 +195,12 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vatsarun-dev/DSA/tree/master/0238-product-of-array-except-self) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
