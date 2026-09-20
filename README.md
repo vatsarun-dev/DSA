@@ -71,6 +71,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vatsarun-dev/DSA/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
@@ -203,4 +204,24 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
