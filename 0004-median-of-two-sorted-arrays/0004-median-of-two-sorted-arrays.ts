@@ -1,12 +1,12 @@
 function findMedianSortedArrays(nums1: number[], nums2: number[]): number {
-    let combine:number[] =[...nums1,...nums2].sort((a,b)=> a-b)
-    let len = combine.length
-    if(len%2!==0){
-        let i =len-1
-        return combine[Math.floor(i/2)]
-    }
-    let i=len-1
-    let finalMedian = (combine[Math.floor(i/2)]+combine[Math.floor(i/2)+1])/2
-    return finalMedian
-
+ let total:number=nums1.length+nums2.length
+ let middle:number=Math.floor(total/2)
+ let i:number=0, j:number=0, current:number =0, previous:number=0
+ for(let k:number=0;k<=middle;k++){
+    previous=current
+    if(i<nums1.length && (j>=nums2.length || nums1[i]<nums2[j])) current=nums1[i++]
+    else current =nums2[j++]
+ }
+ if(total%2 ===1) return current
+ return (previous+current)/2
 };
