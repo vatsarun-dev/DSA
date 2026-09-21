@@ -1,11 +1,11 @@
-function removeDuplicates(a: number[]): number {
-let count:number =1
-for(let i:number=1;i<a.length;i++){
-    if(a[i]!==a[count-1]){
-        a[count]=a[i]
-        count ++
-    }
+function removeDuplicates(array: number[]): number {
+let i = 0,
+  j = 1;
+while (i < array.length) {
+  if (array[i] === array[j]) {
+    array.splice(j, 1);
+  } else (i++, j++);
 }
-return count
+return array.length
 
 };
