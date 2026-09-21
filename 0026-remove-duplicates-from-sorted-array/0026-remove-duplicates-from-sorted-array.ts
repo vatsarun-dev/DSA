@@ -1,11 +1,15 @@
 function removeDuplicates(array: number[]): number {
-let i = 0,
-  j = 1;
-while (i < array.length) {
-  if (array[i] === array[j]) {
-    array.splice(j, 1);
-  } else (i++, j++);
-}
-return array.length
+    let i = 0;
+    let j = 1;
 
-};
+    while (j < array.length) {
+        if (array[i] !== array[j]) {
+            i++;
+            array[i] = array[j];
+        }
+
+        j++;
+    }
+
+    return i + 1;
+}
