@@ -1,8 +1,8 @@
-function removeElement(nums: number[], val: number): number {
+function removeElement(a: number[], val: number): number {
 let count:number=0
-for(let i:number=0;i<nums.length;i++){
-    if(nums[i]!==val){
-        nums[count]=nums[i]
+for(let i:number=0;i<a.length;i++){
+    if(a[i]!==val){
+        a[count]=a[i]
         count++
     }
 }
