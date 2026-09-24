@@ -72,6 +72,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vatsarun-dev/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
@@ -84,6 +85,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -91,12 +93,14 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0050-powx-n](https://github.com/vatsarun-dev/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vatsarun-dev/DSA/tree/master/0223-rectangle-area) |
+| [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
 | [2235-add-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vatsarun-dev/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
 ## Geometry
@@ -107,6 +111,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/vatsarun-dev/DSA/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
@@ -146,6 +151,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
