@@ -86,6 +86,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/vatsarun-dev/DSA/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
+| [1096-brace-expansion-ii](https://github.com/vatsarun-dev/DSA/tree/master/1096-brace-expansion-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -230,4 +232,20 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vatsarun-dev/DSA/tree/master/0239-sliding-window-maximum) |
+## String
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vatsarun-dev/DSA/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vatsarun-dev/DSA/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vatsarun-dev/DSA/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vatsarun-dev/DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
