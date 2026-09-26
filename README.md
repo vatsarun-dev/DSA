@@ -77,6 +77,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/vatsarun-dev/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/vatsarun-dev/DSA/tree/master/0493-reverse-pairs) |
+| [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vatsarun-dev/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vatsarun-dev/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -106,6 +107,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/vatsarun-dev/DSA/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 ## Geometry
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vatsarun-dev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -177,6 +180,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vatsarun-dev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
@@ -254,6 +258,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vatsarun-dev/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
