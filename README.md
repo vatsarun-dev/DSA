@@ -64,6 +64,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vatsarun-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vatsarun-dev/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/vatsarun-dev/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vatsarun-dev/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
@@ -264,6 +266,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | ------- |
 | [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/vatsarun-dev/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vatsarun-dev/DSA/tree/master/1572-matrix-diagonal-sum) |
