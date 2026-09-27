@@ -63,6 +63,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0031-next-permutation](https://github.com/vatsarun-dev/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vatsarun-dev/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vatsarun-dev/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -261,6 +263,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0054-spiral-matrix) |
 | [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vatsarun-dev/DSA/tree/master/1572-matrix-diagonal-sum) |
