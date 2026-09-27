@@ -61,6 +61,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsarun-dev/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vatsarun-dev/DSA/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vatsarun-dev/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vatsarun-dev/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0088-merge-sorted-array) |
@@ -94,6 +95,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vatsarun-dev/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vatsarun-dev/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vatsarun-dev/DSA/tree/master/0223-rectangle-area) |
@@ -258,6 +260,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vatsarun-dev/DSA/tree/master/1572-matrix-diagonal-sum) |
