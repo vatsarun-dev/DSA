@@ -108,6 +108,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0007-reverse-integer](https://github.com/vatsarun-dev/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/vatsarun-dev/DSA/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/vatsarun-dev/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vatsarun-dev/DSA/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/vatsarun-dev/DSA/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
@@ -132,6 +133,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0033-search-in-rotated-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vatsarun-dev/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vatsarun-dev/DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/vatsarun-dev/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -288,4 +290,8 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0832-flipping-an-image](https://github.com/vatsarun-dev/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/vatsarun-dev/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/vatsarun-dev/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vatsarun-dev/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
