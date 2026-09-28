@@ -63,6 +63,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vatsarun-dev/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/vatsarun-dev/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vatsarun-dev/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/vatsarun-dev/DSA/tree/master/0048-rotate-image) |
@@ -126,6 +127,7 @@ Learning DSA is not just about solving questions. It is about building the minds
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vatsarun-dev/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vatsarun-dev/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vatsarun-dev/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/vatsarun-dev/DSA/tree/master/0268-missing-number) |
