@@ -1,43 +1,32 @@
 function minDays(bloomDay: number[], m: number, k: number): number {
-    const n = bloomDay.length;
+    if (m * k > bloomDay.length) return -1;
 
-    // Impossible to make m bouquets
-    if (m * k > n) return -1;
+    let min=Math.min(...bloomDay)
+    let max=Math.max(...bloomDay)
 
-    let low = Math.min(...bloomDay);
-    let high = Math.max(...bloomDay);
+    while(min<=max){
+        let mid=Math.floor((min+max)/2)
 
-    function canMake(day: number): boolean {
-        let flowers = 0;
-        let bouquets = 0;
+        if(canMake(mid)) max=mid-1
+        else  min=mid+1
+    }
+    return min
 
-        for (let i = 0; i < n; i++) {
-            if (bloomDay[i] <= day) {
-                flowers++;
+    function canMake(day:number):boolean{
+        let flowers=0, boquet=0
+        for(let i=0;i<bloomDay.length;i++){
+            if(bloomDay[i]<=day){
+                flowers++
 
-                if (flowers === k) {
-                    bouquets++;
-                    flowers = 0;
-
-                    if (bouquets >= m) return true;
-                }
-            } else {
-                flowers = 0;
-            }
+                if(flowers ===k){
+                    boquet++
+                    flowers=0
+                if(boquet>=m) return true
+                } 
+                          
+            }else {flowers=0 }
         }
-
-        return false;
+        return false
     }
 
-    while (low <= high) {
-        const mid = Math.floor((low + high) / 2);
-
-        if (canMake(mid)) {
-            high = mid - 1;   // try fewer days
-        } else {
-            low = mid + 1;    // need more days
-        }
-    }
-
-    return low;
-}
+};
