@@ -18,4 +18,3 @@ function splitArray(nums: number[], k: number): number {
     return low
 
 };
-// Time: O(n log n log(sum(nums)))
