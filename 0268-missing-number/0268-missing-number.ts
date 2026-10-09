@@ -1,8 +1,6 @@
 function missingNumber(nums: number[]): number {
-    let digit:number=nums.length, sum=0
-    for(let i:number=0;i<digit;i++){
-        sum+=nums[i]
-    }
-    let missingNumber:number = digit*(digit+1)/2 -sum
-    return missingNumber
+    let max=nums.length
+    let allSum=max*(max+1)/2
+    let digitSum=nums.reduce((a,b)=>a+b)
+   return allSum-digitSum
 };
