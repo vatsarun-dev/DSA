@@ -1,21 +1,19 @@
 function removeOuterParentheses(s: string): string {
-    let depth = 0;
-    let ans = "";
-
-    for (let ch of s) {
-        if (ch === "(") {
-            if (depth > 0) {
-                ans += ch;
+    let result:string="", count=0
+    for(let i of s){
+        if(i =="("){
+            if(count!=0){
+                result+=i
+                
             }
-            depth++;
-        } else {
-            depth--;
-
-            if (depth > 0) {
-                ans += ch;
+            count++
+        }
+        else{
+            count--
+            if(count!=0){
+                result+=i
             }
         }
     }
-
-    return ans;
-}
+    return result
+};
