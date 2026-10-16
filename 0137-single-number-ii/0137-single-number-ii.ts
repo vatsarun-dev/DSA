@@ -1,6 +1,19 @@
 function singleNumber(nums: number[]): number {
-    let map:Map<number,number>=new Map()
-     for(let i of nums) map.set(i,(map.get(i)||0)+1)
-    for(let key of map.keys()) if(map.get(key)==1) return key
-   
-};
+    let result = 0;
+
+    for (let bit = 0; bit < 32; bit++) {
+        let count = 0;
+
+        for (let i = 0; i < nums.length; i++) {
+            if (((nums[i] >> bit) & 1) === 1) {
+                count++;
+            }
+        }
+
+        if (count % 3 !== 0) {
+            result |= (1 << bit);
+        }
+    }
+
+    return result;
+}
